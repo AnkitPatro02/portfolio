@@ -45,7 +45,7 @@ header{
     float: right;
     position: relative;
     top: -135px;
-    left: -135px;
+    left: 659px;
 }
 
 #ankit{
@@ -56,7 +56,7 @@ header{
 }
 
 .header+ .aboutme{
-    padding: 30px;
+    padding: 120px;
 }
 
 
